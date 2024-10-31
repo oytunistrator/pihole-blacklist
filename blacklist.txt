@@ -4,6 +4,8 @@
 0.0.0.0 log.pinterest.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 trk.pinterest.com
+0.0.0.0 widgets.pinterest.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 ads.youtube.com
+0.0.0.0 ads.linkedin.com
